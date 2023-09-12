@@ -1,16 +1,49 @@
-### Hi there 👋
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35" width="35" />
 
-<!--
-**asadkhan777/asadkhan777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Asad, a Software Engineer by trade, Curious Tinkerer at heart. Although my specialization is Android Development, I'm well-versed with Django, NodeJS, React-Native, Bash & a little bit of iOS as well. 
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=asadkhan777&style=flat&label=Profile+visitors)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Skyscanner Ltd**
+- 💬 Reach out if you want to talk about **Android**, **Kotlin**, **Sotware design** & technology in general.
+- 🤓 Here are som basic projects I made when I was still learning: [WIP](https://github.com/asadkhan777/?tab=repositories)
+- 🌱 Open to working on freelance projects, reachout to me over at: asad@igtech.co.in
+- 🎮 Hobbies:
+    - Reading books (big fan of SciFi) 📚
+    - Cooking & distributing memes 🧪
+    - Studying AI and its power to disrupt everything we know 🪄
+
+<h3>💼 Things that I'm currently working on:</h3>
+<details open>
+  <summary>Although my day-to-day work involves a certain set of technologies, here are some things I want to explore in the near future.</summary>
+  <ul>
+    <br>
+    <li>Building RESTful backends with ExpressJS & Ktor.</li>
+    <li>Learning Android Datastore, SecureStorage.</li>
+    <li>Getting more familar with Android Jetpack Compose.</li>
+    <li>Creating full blown end-to-end applications with the whole stack, ie. MERN/MEAN + Mobile + RDBMS.</li>
+    <li>More to come 🔜</li>
+  </ul>
+</details>
+
+**Languages, Tools & Frameworks I'm familiar with:**
+<p align="left”>
+          
+<a href="https://developer.android.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" alt="android" width="70" height="50"/></a> 
+<a href="https://kotlinlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="70" height="60"/></a>
+<a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="40"/></a> 
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="git" width="60" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="java" width="50" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="java" width="60" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="60" height="50"/></a>
+</p>
+
+**Connect with me:**
+<p align="left”>
+
+<a href="">
+
+<a target="blank" href="https://www.linkedin.com/in/asad-khan-developer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/linkedin.svg" alt="asad-khan" height="40" width="60" /> LinkedIn</a> - Where I post serious stuff and career updates
+
+<a target="blank" href="https://medium.com/@asadkhan-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/medium.svg" alt="asad-khan" height="40" width="60" /> Medium</a> - Where I blog about tech 
+</p>
