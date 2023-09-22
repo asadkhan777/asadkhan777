@@ -1,12 +1,12 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35" width="35" />
+# Hey there! I'm Asad, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35" width="35" />
 
-## I'm Asad, a Software Engineer by trade, Curious Tinkerer at heart. My specialization is Android Mobile Development, but I'm also well-versed with NodeJS, Django, React Native, Docker, Bash & a little bit of iOS & MySQL too. 
+**A software engineer by trade & curious tinkerer at heart. My specialization is Android development, but I'm also well-versed with NodeJS, React Native, Docker, Bash & a little bit of iOS too.**
 
 ![](https://komarev.com/ghpvc/?username=asadkhan777&style=flat&label=Profile+visitors)
 
 - 🏢 I'm currently working at **Skyscanner Ltd**
-- 💬 Reach out if you want to talk about **Android**, **Kotlin**, **Sotware design** & technology in general.
-- 🤓 Here are som basic projects I made when I was still learning: [WIP](https://github.com/asadkhan777/?tab=repositories)
+- 💬 Reach out if you want to talk about **Android**, **Kotlin**, **Sotware design** & **Technology** in general.
+- 🤓 Here are some basic projects I made when I was still learning: [WIP](https://github.com/asadkhan777/?tab=repositories)
 - 🌱 Open to working on freelance projects, reachout to me over at: asad@igtech.co.in
 - 🎮 Hobbies:
     - Reading books (big fan of SciFi) 📚
@@ -19,9 +19,10 @@
   <ul>
     <br>
     <li>Building RESTful backends with ExpressJS & Ktor.</li>
-    <li>Learning Android Datastore, SecureStorage.</li>
+    <li>Learning Android Datastore, SecureStorage and other new shiny things.</li>
     <li>Getting more familar with Android Jetpack Compose.</li>
     <li>Creating full blown end-to-end applications with the whole stack, ie. MERN/MEAN + Mobile + RDBMS.</li>
+    <li>Github Copilot (<i>interesting stuff here</i>).</li>
     <li>More to come 🔜</li>
   </ul>
 </details>
