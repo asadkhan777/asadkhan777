@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35" width="35" />
 
-### I'm Asad, a Software Engineer by trade, Curious Tinkerer at heart. Although my specialization is Android Development, I'm well-versed with Django, NodeJS, React-Native, Bash & a little bit of iOS as well. 
+## I'm Asad, a Software Engineer by trade, Curious Tinkerer at heart. My specialization is Android Mobile Development, but I'm also well-versed with NodeJS, Django, React Native, Docker, Bash & a little bit of iOS & MySQL too. 
 
 ![](https://komarev.com/ghpvc/?username=asadkhan777&style=flat&label=Profile+visitors)
 
@@ -34,7 +34,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="50" height="40"/></a> 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="git" width="60" height="40"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="java" width="50" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="java" width="60" height="40"/></a>
+<a href="https://nodejs.org/en" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="java" width="60" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="60" height="50"/></a>
 </p>
 
