@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=asadkhan777&style=flat&label=Profile+visitors)
 
-- 🏢 I'm currently working at **Skyscanner Ltd**
+- 🏢 I'm currently working at <a href="https://www.skyscanner.net/about-us" target="_blank">**Skyscanner Ltd**</a>
 - 💬 Reach out if you want to talk about **Android**, **Kotlin**, **Sotware design** & **Technology** in general.
 - 🤓 Here are some basic projects I made when I was still learning: [WIP](https://github.com/asadkhan777/?tab=repositories)
 - 🌱 Open to working on freelance projects, reachout to me over at: asad@igtech.co.in
