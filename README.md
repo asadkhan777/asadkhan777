@@ -1,11 +1,11 @@
-# Hey there! I'm Asad, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35" width="35" />
+<H1>Hey there! I'm Asad, nice to meet you <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35" width="35" /></H1>
 
 **A software engineer by trade & curious tinkerer at heart. My specialization is Android development, but I'm also well-versed with NodeJS, React Native, Docker, Bash & a little bit of iOS too.**
 
 ![](https://komarev.com/ghpvc/?username=asadkhan777&style=flat&label=Profile+visitors)
 
-- 🏢 I'm currently working at <a href="https://www.skyscanner.net/about-us" target="_blank">**Skyscanner Ltd**</a>
-- 💬 Reach out if you want to talk about **Android**, **Kotlin**, **Sotware design** & **Technology** in general.
+- 🏢 Currently working @ <a href="https://www.skyscanner.net/about-us" target="_blank">**Skyscanner Ltd**</a>
+- 💬 Reach out if you want to talk about **Android**, **Kotlin**, **Sotware Design** & **Technology** in general.
 - 🤓 Here are some basic projects I made when I was still learning: [WIP](https://github.com/asadkhan777/?tab=repositories)
 - 🌱 Open to working on freelance projects, reachout to me over at: asad@igtech.co.in
 - 🎮 Hobbies:
