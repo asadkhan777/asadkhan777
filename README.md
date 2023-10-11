@@ -39,6 +39,8 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="60" height="50"/></a>
 </p>
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=asadkhan777&show_icons=true&theme=dark)
+
 **Connect with me:**
 <p align="left”>
 
